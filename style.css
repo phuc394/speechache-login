@@ -9,13 +9,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #555454;
+    background-color: #919090;
     opacity: 0.8;
 }
 
 .login-outline {
-    width: 40%;
-    height: 50%;
+    width: 50%;
+    height: 60%;
     background-color: #ffffff;
     border-radius: 12px;
     display: flex;
@@ -41,6 +41,7 @@ input {
 }
 
 h2 {
+    margin-top: 15%;
     font-size: 2em;
 }
 
